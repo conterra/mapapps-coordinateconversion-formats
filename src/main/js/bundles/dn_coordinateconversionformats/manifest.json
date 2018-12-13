@@ -10,7 +10,63 @@
     },
     "components": [
         {
+            "name": "ETRS89geografischFormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "GaussKrueger2FormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "GaussKrueger3FormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "GaussKrueger4FormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "GaussKrueger5FormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
             "name": "UTM32FormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "UTM33FormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "WGS84PseudoMercatorFormatFactory",
+            "provides": [
+                "coordinateconversion.Format"
+            ],
+            "instanceFactory": true
+        },
+        {
+            "name": "WGS84geografischFormatFactory",
             "provides": [
                 "coordinateconversion.Format"
             ],
