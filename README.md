@@ -18,7 +18,7 @@ https://demos.conterra.de/mapapps/resources/jsregistry/root/coordinateconversion
             "Config":{
                 "ETRS89geografisch": true,
                 "GaussKrueger2": true,
-                "GaussKrueger3": false,
+                "GaussKrueger3": true,
                 "GaussKrueger4": true,
                 "GaussKrueger5": true,
                 "UTM32": true,
@@ -32,15 +32,15 @@ https://demos.conterra.de/mapapps/resources/jsregistry/root/coordinateconversion
 ##### Properties
  | Property                       | Type     | Possible Values               | Default            | Description                                                 |
  |--------------------------------|----------|-------------------------------|--------------------|-------------------------------------------------------------|
- | ETRS89geografisch              | Booelan  | ```true``` &#124; ```false``` |   false            | Format will appear in tool                                  |
- | GaussKrueger2                  | Booelan  | ```true``` &#124; ```false``` |   false            | Format will appear in tool                                  |
- | GaussKrueger3                  | Booelan  | ```true``` &#124; ```false``` |   false            | Format will appear in tool                                  |
- | GaussKrueger4                  | Booelan  |```true``` &#124; ```false```  |   false            | Format will appear in tool                                  |
- | GaussKrueger5                  | Booelan  |```true``` &#124; ```false```  |   false            | Format will appear in tool                                  |
- | UTM32                          | Booelan  |```true``` &#124; ```false```  |   false            | Format will appear in tool                                  |
- | UTM33                          | Booelan  |```true``` &#124; ```false```  |   false            | Format will appear in tool                                  |
- | WGS84PseudoMercator            | Booelan  |```true``` &#124; ```false```  |   false            | Format will appear in tool                                  |
- | WGS84geografisch               | Booelan  |```true``` &#124; ```false```  |   false            | Format will appear in tool                                  |
+ | ETRS89geografisch              | Booelan  | ```true``` &#124; ```false``` |   true             | Format will appear in tool                                  |
+ | GaussKrueger2                  | Booelan  | ```true``` &#124; ```false``` |   true             | Format will appear in tool                                  |
+ | GaussKrueger3                  | Booelan  | ```true``` &#124; ```false``` |   true             | Format will appear in tool                                  |
+ | GaussKrueger4                  | Booelan  |```true``` &#124; ```false```  |   true             | Format will appear in tool                                  |
+ | GaussKrueger5                  | Booelan  |```true``` &#124; ```false```  |   true             | Format will appear in tool                                  |
+ | UTM32                          | Booelan  |```true``` &#124; ```false```  |   true             | Format will appear in tool                                  |
+ | UTM33                          | Booelan  |```true``` &#124; ```false```  |   true             | Format will appear in tool                                  |
+ | WGS84PseudoMercator            | Booelan  |```true``` &#124; ```false```  |   true             | Format will appear in tool                                  |
+ | WGS84geografisch               | Booelan  |```true``` &#124; ```false```  |   true             | Format will appear in tool                                  |
 
 
 ## Development Guide
