@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 import ".";
+import "./Config";
 import "./UTM32FormatFactory";
 import "./UTM33FormatFactory";
 import "./GaussKrueger2FormatFactory";
