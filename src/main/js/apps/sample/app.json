@@ -164,6 +164,19 @@
                     "coordinateconversionToggleTool"
                 ]
             }
+        },
+        "dn_coordinateconversionformats":{
+            "Config":{
+                "ETRS89geografisch": true,
+                "GaussKrueger2": true,
+                "GaussKrueger3": true,
+                "GaussKrueger4": true,
+                "GaussKrueger5": true,
+                "UTM32": true,
+                "UTM33": true,
+                "WGS84PseudoMercator": true,
+                "WGS84geografisch": true
+            }
         }
     }
 }
