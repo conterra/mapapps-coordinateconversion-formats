@@ -20,7 +20,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.conterra.devnet</groupId>
     <artifactId>mapapps-coordinateconversion-formats</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <packaging>jar</packaging>
     <!-- DISABLE repositories and pluginRepositories if inside the con terra! -->
     <repositories>
@@ -513,7 +513,7 @@
         <connection>scm:git:https://github.com/conterra/mapapps-coordinateconversion-formats.git</connection>
         <developerConnection>scm:git:https://github.com/conterra/mapapps-coordinateconversion-formats.git</developerConnection>
         <url>https://github.com/conterra/mapapps-coordinateconversion-formats</url>
-        <tag>HEAD</tag>
+        <tag>1.1.1</tag>
     </scm>
     <distributionManagement>
         <repository>
