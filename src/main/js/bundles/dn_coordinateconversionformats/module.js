@@ -15,12 +15,5 @@
  */
 import ".";
 import "./Config";
-import "./UTM32FormatFactory";
-import "./UTM33FormatFactory";
-import "./GaussKrueger2FormatFactory";
-import "./GaussKrueger3FormatFactory";
-import "./GaussKrueger4FormatFactory";
-import "./GaussKrueger5FormatFactory";
-import "./WGS84PseudoMercatorFormatFactory";
 import "./ETRS89geografischFormatFactory";
-import "./WGS84geografischFormatFactory";
+
