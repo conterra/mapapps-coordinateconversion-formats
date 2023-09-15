@@ -1,4 +1,7 @@
 # Coordinateconversion Formats
+
+⚠️ This bundle is no longer in active development.
+
 The Coordinateconversion Formats bundle adds additional coordinateconversion formats to the coordinateconversion bundle.
 
 ## Sample App
